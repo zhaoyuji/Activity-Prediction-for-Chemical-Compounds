@@ -10,4 +10,35 @@ Some detailed could be found in our presentation slides
 
 [1] Jaeger, Sabrina, Fulle, Simone, and Turk, Samo. "Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition." Journal of Chemical Information & Modeling :acs.jcim.7b00616.
 
-[2] https://github.com/samoturk/mol2vec
+
+Requirements Package:
+
+* Traditional machine learning methods:
+
+  1. pickle
+
+  2. sklearn
+
+  3. pandas
+
+  4. numpy
+
+  5. rdkit
+
+  6. mol2vec (https://github.com/samoturk/mol2vec)
+
+  7. gensim
+
+  8. lightgbm
+
+* MolCNN
+
+  1. torch
+
+  2. mol2vec
+
+  3. gensim
+
+  4. pandas
+
+  5. numpy
